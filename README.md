@@ -19,7 +19,6 @@ Property Wala is a responsive property listing website designed to showcase avai
 ## Technologies Used
 - **HTML5**: Used for structuring the content of the website.
 - **CSS3**: Utilized for styling and layout purposes.
-- **[Insert any other technologies or libraries used, if applicable]**
 
 ## File Structure
 
@@ -52,18 +51,18 @@ git clone https://github.com/your-username/propertywala.git
 - **Search Function**: Utilize the search functionality to find properties based on specific criteria.
 - **Property Details**: Click on a property to view more detailed information.
 
+## Website Link
+- The PropertyWala website is live and accessible at [https://property-wala.vercel.app/]
+
 ## Contributing
 - Contributions to the project are welcome! To contribute:
  - Fork the repository.
  - Make changes.
  - Create a pull request with your modifications.
 
-## Credits
-- Created by [Your Name].
-- Image sources used in the website: [List the image sources or credits, if applicable].
-
 ## License
 This project is licensed under the [License Name]. Please refer to the LICENSE file for details.
 
 ## Contact
-For inquiries or feedback, please contact [Your Email Address].
+For inquiries or feedback, please contact +91 9521806043 | umeshmehra214@gmail.com.
+
