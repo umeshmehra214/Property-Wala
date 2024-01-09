@@ -1,7 +1,7 @@
 # Property Wala Website
 
 ## Overview
-PropertyWala is a responsive property listing website designed to showcase available properties for sale or rent. The website provides a user-friendly interface for users to explore property details, including property type, location, pricing, and descriptions.
+Property Wala is a responsive property listing website designed to showcase available properties for sale or rent. The website provides a user-friendly interface for users to explore property details, including property type, location, pricing, and descriptions.
 
 ## Features
 
@@ -24,19 +24,19 @@ PropertyWala is a responsive property listing website designed to showcase avail
 ## File Structure
 
 
-propertywala/
-│
-├── index.html # Main homepage
-├── css/
-│ ├── style.css # Stylesheet for the website
-│ └── [Any additional CSS files]
-│
-├── images/ # Directory containing images used in the website
-│ ├── property1.jpg
-│ ├── property2.jpg
-│ └── [Any other property images]
-│
-└── README.md # Documentation file (You're currently reading this)
+propertywala /<br>
+│<br>
+├── index.html # Main homepage<br>
+├── css/<br>
+│ ├── style.css # Stylesheet for the website<br>
+│ └── [Any additional CSS files]<br>
+│<br>
+├── images/ # Directory containing images used in the website<br>
+│ ├── property1.jpg<br>
+│ ├── property2.jpg<br>
+│ └── [Any other property images]<br>
+│<br>
+└── README.md # Documentation file (You're currently reading this)<br>
 
 
 
