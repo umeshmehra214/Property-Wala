@@ -1,4 +1,4 @@
-# PropertyWala Website
+# Property Wala Website
 
 ## Overview
 PropertyWala is a responsive property listing website designed to showcase available properties for sale or rent. The website provides a user-friendly interface for users to explore property details, including property type, location, pricing, and descriptions.
